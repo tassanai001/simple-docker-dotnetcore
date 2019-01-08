@@ -1,0 +1,14 @@
+/Users/aycap/Projects/myAPI/myAPI/bin/Debug/netcoreapp2.2/myAPI.deps.json
+/Users/aycap/Projects/myAPI/myAPI/bin/Debug/netcoreapp2.2/myAPI.runtimeconfig.json
+/Users/aycap/Projects/myAPI/myAPI/bin/Debug/netcoreapp2.2/myAPI.runtimeconfig.dev.json
+/Users/aycap/Projects/myAPI/myAPI/bin/Debug/netcoreapp2.2/myAPI.dll
+/Users/aycap/Projects/myAPI/myAPI/bin/Debug/netcoreapp2.2/myAPI.pdb
+/Users/aycap/Projects/myAPI/myAPI/obj/Debug/netcoreapp2.2/myAPI.csprojAssemblyReference.cache
+/Users/aycap/Projects/myAPI/myAPI/obj/Debug/netcoreapp2.2/myAPI.csproj.CoreCompileInputs.cache
+/Users/aycap/Projects/myAPI/myAPI/obj/Debug/netcoreapp2.2/myAPI.RazorAssemblyInfo.cache
+/Users/aycap/Projects/myAPI/myAPI/obj/Debug/netcoreapp2.2/myAPI.RazorAssemblyInfo.cs
+/Users/aycap/Projects/myAPI/myAPI/obj/Debug/netcoreapp2.2/myAPI.AssemblyInfoInputs.cache
+/Users/aycap/Projects/myAPI/myAPI/obj/Debug/netcoreapp2.2/myAPI.AssemblyInfo.cs
+/Users/aycap/Projects/myAPI/myAPI/obj/Debug/netcoreapp2.2/myAPI.RazorTargetAssemblyInfo.cache
+/Users/aycap/Projects/myAPI/myAPI/obj/Debug/netcoreapp2.2/myAPI.dll
+/Users/aycap/Projects/myAPI/myAPI/obj/Debug/netcoreapp2.2/myAPI.pdb

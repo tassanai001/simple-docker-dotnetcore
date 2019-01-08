@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{A2159300-7A0E-49A7-9EB4-BABD3FAD3907}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myAPI/Dockerfile">
+    <Files>
+      <File FileName="myAPI/Properties/launchSettings.json" Line="30" Column="2" />
+      <File FileName="myAPI/appsettings.json" Line="9" Column="1" />
+      <File FileName="Dockerfile" Line="17" Column="35" />
+      <File FileName=".dockerignore" Line="3" Column="1" />
+      <File FileName="myAPI/Controllers/ValuesController.cs" Line="17" Column="56" />
+      <File FileName="run.sh" Line="1" Column="47" />
+      <File FileName="build.sh" Line="1" Column="15" />
+      <File FileName="myAPI/Program.cs" Line="17" Column="1" />
+      <File FileName="myAPI/Dockerfile" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.myAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
